@@ -2,4 +2,4 @@
 
 ## 游戏地址
 
-[http://mine.humandetail.com](http://mine.humandetail.com)
+https://ka-houl.github.io/mine/
